@@ -1,5 +1,6 @@
 # An Analysis of Kickstarter Campaigns.
 Performing analysis on Kickstarter data to uncover trends
+Kickstarter data is available in data-1-1-3-StarterBook.xlsx (https://github.com/AndrewZinc/kickstarter-analysis/blob/main/data-1-1-3-StarterBook.xlsx)
 
 ## Kickstarter Data
 ### Conditional formatting
