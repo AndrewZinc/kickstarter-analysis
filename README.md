@@ -15,7 +15,9 @@ The following items were completed to characterize the campaign data and enable 
 
 
 # Recommendations
-
+Have a look at the Category Outcomes to help decide the type of campaign -  !Picture1( )
+Review the Outcomes based on launch date to help schedule your campaign - !Picture2( )
 Read this report and plan your campaign.
+
 
 Good luck!
