@@ -15,9 +15,10 @@ The following items were completed to characterize the campaign data and enable 
 
 
 # Recommendations
-Have a look at the Category Outcomes to help decide the type of campaign -  !Picture1(https://github.com/AndrewZinc/kickstarter-analysis/blob/main/Picture1.png )
-Review the Outcomes based on launch date to help schedule your campaign - !Picture2(https://github.com/AndrewZinc/kickstarter-analysis/blob/main/Picture2.png )
-Read this report and plan your campaign.
+* Read this report and plan your campaign.
+* Have a look at the Category Outcomes to help decide the type of campaign -  !Picture1(https://github.com/AndrewZinc/kickstarter-analysis/blob/main/Picture1.png )
+* Review the Outcomes based on launch date to help schedule your campaign - !Picture2(https://github.com/AndrewZinc/kickstarter-analysis/blob/main/Picture2.png )
+
 
 
 #Good luck!
