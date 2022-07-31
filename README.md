@@ -18,25 +18,28 @@ To prepare for the analysis, the contents of the spreadsheet were examined to id
 
 ### Analysis of Outcomes Based on Launch Date
 Preliminary review of the spreadsheet data suggested that Kickstarter campaigns were launched at different times all through the year.  A Pivot Table was constructed to determine if there was a best time of year to launch a Theatrical Kickstarter campaign. Using the Pivot Table data, a chart was added to visualize the data and its variation over time. ![Theater_Outcomes_vs_Launch Pivot Chart](/Theater_Outcomes_vs_Launch.png)
-From this we can see that May is the best month to launch this type of Kickstarter, and December is the worst month.
 
 ### Analysis of Outcomes Based on Goals
 Lastly, a chart was created to explore whether the size of the Kickstarter goal was a factor toward the success of a Theatrical Play campaign. ![Outcomes_vs_Goals Line Chart](/Outcomes_vs_Goals.png)
 
-The chart was constructed using Excel COUNTIFS formulas for Successful, Failed, and Canceled Play Kickstarters that had goals in various ranges.  Interestingly, we see that there is a perfectly inverse relationship between the success or failure of the campaign, based on its goal.  Within this spreadsheet data set, there were no "Play" Kickstarters that were canceled.
+The chart was constructed using the Excel COUNTIFS formulas for Successful, Failed, and Canceled Play Kickstarters that had goals in various ranges. 
 
 ### Challenges and Difficulties Encountered
 #### Challenges
-There were challenges with the data in the spreadsheet. The data associated with the dates for the start and end of the campaign were both included in Unix Epoch Time.  This data required conversion to make it human-readable.  This was accomplished using a formula '=(((J2/60)/60)/24)+DATE(1970,1,1)', which for example converted 1476094907 to 10/10/2016.
+There were challenges with the data in the spreadsheet. The data associated with the dates for the start and end of the campaign were both included in Unix Epoch Time.  This data required conversion to make it human-readable.  This was accomplished using a formula `=(((J2/60)/60)/24)+DATE(1970,1,1)` which, for example, converted 1476094907 to 10/10/2016.
 #### Difficulties
 The only difficulty encountered was due to the size of the spreadsheet.  The volume of data made filtering and sorting data proceed very slowly on my computer.
 
 ## Results
+* The analysis of outcomes based on launch date revealed that May is the best month to launch a Theatrical Kickstarter, and December is the worst month. We can also conclude that from May onwards toward the end of the year, the number of successful campaigns trends downward.
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+* From the analysis of outcomes based on goals, we see that there is a perfectly inverse relationship between the success or failure of the campaign, based on its goal.  
 
-- What can you conclude about the Outcomes based on Goals?
+### Limitations of the Dataset
+* The Kickstarter Excel spreadsheet only contained data over a limited number years, so the conclusions we can draw may not be accurate for the present day.
+*  The data set did not include information for every scenario that was included in this analysis. For example, within this spreadsheet data set, there were no "Play" Kickstarters that were canceled.
 
-- What are some limitations of this dataset?
+### Recommendations for Further Analysis
+* Create a Pivot Table and/or Chart to explore whether the Genre of the Play was a factor in the Kickstarter success.
+* Create a Pivot Table and/or Chart to explore the distribution of successful Theatrical Kickstarters geographically.
 
-- What are some other possible tables and/or graphs that we could create?
