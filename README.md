@@ -14,9 +14,11 @@ Using this spreadsheet, an analysis was performed to discover the attributes of 
 This project was undertaken to provide insights to a Playwright who is interested in using data to build a successful Kickstarter campaign
 
 ## Analysis and Challenges
-To prepare for the analysis, the contents of the spreadsheet were examined to identify the types of data and ensure they were all properly formatted. Additionally, conditional formatting was introduced to enable easier visual review of the spreadsheet contents regarding the outcome of the Kickstarter campaigns and the percent of funding received for each.
+To prepare for the analysis, the contents of the spreadsheet were examined to identify the types of data and ensure they were all properly formatted. Additionally, conditional formatting was introduced to enable easier visual review of the spreadsheet contents regarding the outcome of the Kickstarter campaigns and the percent of funding received for each. [![Conditional Formatting](/Conditional_Formatting.png)
+
 
 ### Analysis of Outcomes Based on Launch Date
+Preliminary review of the spreadsheet data suggested that Kickstarter campaigns were launched at different times all through the year.  A Pivot Table was constructed to determine if there was a best time of year to launch a Theatrical Kickstarter campaign.
 
 ### Analysis of Outcomes Based on Goals
 
