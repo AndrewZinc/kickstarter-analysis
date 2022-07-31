@@ -17,7 +17,7 @@ This project was undertaken to provide insights to a Playwright who is intereste
 To prepare for the analysis, the contents of the spreadsheet were examined to identify the types of data and ensure they were all properly formatted. Additionally, conditional formatting was introduced to enable easier visual review of the spreadsheet contents regarding the outcome of the Kickstarter campaigns and the percent of funding received for each. ![Conditional Formatting](/Conditional_Formatting.png)
 
 ### Analysis of Outcomes Based on Launch Date
-Preliminary review of the spreadsheet data suggested that Kickstarter campaigns were launched at different times all through the year.  A Pivot Table was constructed to determine if there was a best time of year to launch a Theatrical Kickstarter campaign. Using the Pivot Table data, a chart was added to visualize the data and its variation over time. ![Theater_Outcomes_vs_Launch Pivot Chart](/Theater_Outcomes_vs_Launch.png)
+Preliminary review of the spreadsheet data suggested that Kickstarter campaigns were launched at different times all through the year.  A Pivot Table was constructed to determine if there was a best time of year to launch a Theatrical Kickstarter campaign. Using the Pivot Table data, a chart was added to visualize the number of launched Kickstarters each month. ![Theater_Outcomes_vs_Launch Pivot Chart](/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Lastly, a chart was created to explore whether the size of the Kickstarter goal was a factor toward the success of a Theatrical Play campaign. ![Outcomes_vs_Goals Line Chart](/Outcomes_vs_Goals.png)
